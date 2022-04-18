@@ -1,0 +1,12 @@
+nav {
+  padding: 0 50px;
+  font-size: 40px;
+  font-weight: 500;
+}
+ul {
+  display: flex;
+  list-style: none;
+}
+li {
+  margin-right: 30px;
+}
